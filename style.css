@@ -1,0 +1,24 @@
+body{
+  padding: 25px;
+  background-color: royalblue;
+}
+.title {
+	color: #5C6AC4;
+}
+
+#start-btn{
+  font-size: 8px;
+  height: 50px;
+  width: 50px;
+  border-radius: 15px;
+  background-color: lime;
+
+}
+
+#stop-btn{
+  font-size: 8px;
+  height: 50px;
+  width: 50px;
+  border-radius: 15px;
+  background-color: tomato;
+}
